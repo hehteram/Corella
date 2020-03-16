@@ -1,6 +1,6 @@
 # Corella
 This is the code for the paper [Corella: A Private Multi Server Learning Approach based on Correlated Queries](http://??) (2020).
-<pdf src="./Image/method.pdf" align="right" width="350"/>
+![method](https://github.com/hehteram/Image/method.jpg)
 
 ## Prerequisites
 - Python 3.6+
