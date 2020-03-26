@@ -1,5 +1,5 @@
 # Corella
-This is the code for the paper [Corella: A Private Multi Server Learning Approach based on Correlated Queries](http://??) (2020).
+This is the code for the paper [Corella: A Private Multi Server Learning Approach based on Correlated Queries]() (2020).
 
 <img src="./Image/method.jpg" align="right" width="140">
 
