@@ -10,10 +10,4 @@ This is the code for the paper [Corella: A Private Multi Server Learning Approac
 ## Reference 
 
 ```
-@article{ehteram2020corella,
-  title={Corella: A Private Multi Server Learning Approach based on Correlated Queries},
-  author={Ehteram, Hamidreza and Maddah-Ali, Mohammad Ali and Mirmohseni, Mahtab},
-  journal={arXiv preprint arXiv:???},
-  year={2020}
-}
 ```
